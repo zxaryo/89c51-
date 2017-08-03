@@ -1,6 +1,6 @@
 //root of perfect squere number
-// @32h
-//** not an experiment
+// ip 32h
+//works only for square numbers
 org 00h 
 	start: mov a,32h
 		mov r0,a
